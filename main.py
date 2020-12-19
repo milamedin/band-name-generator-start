@@ -1,5 +1,5 @@
 
-print("Welcome to the Band Name Generator.")
+print("Welcome to the Band Name Generator")
 
 color = input("What's your favourite color?\n")
 
